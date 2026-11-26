@@ -1,0 +1,9 @@
+{
+  "subject": "예시과목",
+  "contextual_strings": ["회귀분석", "결정계수", "p-value", "다중공선성", "더미변수"],
+  "replace_safe": {"결정 개수": "결정계수", "피 밸류": "p-value"},
+  "context_needed": {"더미": "더미변수"},
+  "entries": [
+    {"term": "결정계수", "spoken": "결정계수", "asr_variants": [{"text": "결정 개수", "observed": true}], "weeks": [3], "note": "R²"}
+  ]
+}
